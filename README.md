@@ -22,11 +22,11 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 💻 &nbsp;Languages
+#### 💻 &nbsp;Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧩 &nbsp;Frameworks
+#### 🧩 &nbsp;Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -41,7 +41,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 &nbsp;GitHub Analytics
+#### 📊 &nbsp;GitHub Analytics
 
 <p align="center">
    <a href="https://github.com/Esteban023">
@@ -49,6 +49,13 @@
      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esteban023&layout=compact&langs_count=8&theme=algolia"/>
    </a>
 </p>
+
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esteban023&theme=github_dark)
+ </div>
+
 
 
 
