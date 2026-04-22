@@ -56,9 +56,9 @@
 
  ### 💳 Github Profile Summary Card
  
- <div align=center>
-   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esteban023&theme=github_dark)
- </div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esteban023&theme=github_dark" />
+</div>
  
 
 
