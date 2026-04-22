@@ -22,6 +22,8 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+### 🛠 &nbsp;Tech Stack
+
 #### 💻 &nbsp;Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -50,7 +52,7 @@
    </a>
 </p>
 
- ### 💳 Github Profile Summary Card
+ #### 💳 Github Profile Summary Card
  
  <div align=center>
    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esteban023&theme=github_dark)
