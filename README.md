@@ -45,11 +45,11 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### 📊 &nbsp;GitHub Analytics
+### 📊 &nbsp;GitHub Analytics
 
 <p align="center">
    <a href="https://github.com/Esteban023">
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Esteban023&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?     username=Esteban023&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esteban023&layout=compact&langs_count=8&theme=algolia"/>
    </a>
 </p>
@@ -60,7 +60,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esteban023&theme=github_dark" />
 </div>
  
+### 📊 Most Used Language
 
+ <div align=center>
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=Esteban023&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+  
+ </div>
 
 
 
