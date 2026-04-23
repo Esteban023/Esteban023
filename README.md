@@ -8,7 +8,7 @@
 </h3>
 
 <h3 align="center">
-  💻 &nbsp;Backend-Oriented Developer | Java & Android \
+  💻 &nbsp;Backend-Oriented Developer | Java & Android <br>
   📍 &nbsp;Colombia
 </h3>
 
