@@ -1,81 +1,73 @@
-<div align="center">
-    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+<h1 align="center">Esteban Betancourt Lozano</h1>
 
-<h3 align="center">
-    Hi, I'm Esteban Betancourt Lozano.
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<h3 align="center">
-    💻 &nbsp;Software Developer | Java, Android & Full-Stack <br>
-</h3>
-
-<h3 align="center">
-    📍 &nbsp;Colombia
-</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-DE-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
-<br>
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓 &nbsp;I'm currently studying Software Developer Technology.<br>
-🌱 &nbsp;I'm currently expanding my stack with **JavaScript & Next.js** and learning Machine Learning.<br>
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp;You can shoot me an email at esteban.betancourt.lozano@gmail.com I'll try to respond as soon as I can.
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350"/>
-
-### 🛠 &nbsp;Tech Stack
-
-#### 💻 &nbsp;Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-#### 🧩 &nbsp;Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-#### 📚 &nbsp;Libraries
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### 🔧 &nbsp;Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
-
-### 📊 &nbsp;GitHub Analytics
+<h4 align="center">
+  Software Developer | Backend Architecture & Machine Learning
+</h4>
 
 <p align="center">
-    <a href="https://github.com/Esteban023">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Esteban023&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esteban023&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO-DE-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:esteban.betancourt.lozano@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-### 💳 Github Profile Summary Card
+---
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Esteban023&theme=github_dark" />
-</div>
- 
-<div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer" />
-</div>
+### 👨🏻‍💻 Sobre mí
+
+Desarrollador de software enfocado en la creación de arquitecturas escalables y soluciones basadas en datos. Actualmente combinando el desarrollo backend robusto con tecnologías frontend modernas y modelos de aprendizaje automático.
+
+- ⚙️ **Arquitectura & Backend:** Experiencia en el diseño de ecosistemas de microservicios y despliegues localizados utilizando **Docker** y **Spring Boot**.
+- 🧠 **Data & Machine Learning:** Profundizando en teoría de la computación, diseño de algoritmos y el ecosistema de ML (TensorFlow, Scikit-learn).
+- 🌐 **Frontend Moderno:** Expandiendo el stack hacia el desarrollo Full-Stack interactivo con **JavaScript, React y Next.js**.
+- 📚 **Intereses académicos:** Álgebra lineal, algoritmos de aproximación y teoría de grafos aplicada a sistemas de recomendación.
+
+---
+
+### 🛠 Stack Tecnológico
+
+**Backend & Arquitectura**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Data Science & Machine Learning**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Herramientas & Flujo de trabajo**  
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+### 🚀 Proyectos Destacados
+
+*Aquí puedes agregar enlaces a tus repositorios más importantes en formato de lista para demostrar tu código.*
+
+- [**Nombre de tu Proyecto de Microservicios**](link-al-repo) - Breve descripción técnica de qué hace y qué tecnologías (Docker, Java) usaste.
+- [**Nombre de tu Proyecto de ML/Data**](link-al-repo) - Breve descripción del modelo o algoritmo de recomendación implementado.
+
+---
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <a href="https://github.com/Esteban023">
+    <img src="https://github-readme-stats.vercel.app/api?username=Esteban023&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Esteban023">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban023&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</p>
