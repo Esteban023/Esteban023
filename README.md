@@ -54,13 +54,11 @@ Desarrollador de software enfocado en la creación de arquitecturas escalables y
 
 ### 🚀 Proyectos Destacados
 
-*Aquí puedes agregar enlaces a tus repositorios más importantes en formato de lista para demostrar tu código.*
+- [**WorkLink**](https://github.com/Esteban023/WorkLink_offer_service) 
+  Plataforma desarrollada bajo una arquitectura de microservicios robusta (servicios de autenticación, ofertas, perfiles, etc.). Orquestación local y optimización de builds mediante **Docker Compose**, con despliegues en servidores virtuales (Clouding.io). El ciclo de vida del desarrollo se gestionó integralmente con prácticas ágiles utilizando **Jira y Confluence**.
 
-- [**Nombre de tu Proyecto de Microservicios**](link-al-repo) - Breve descripción técnica de qué hace y qué tecnologías (Docker, Java) usaste.
-- [**Nombre de tu Proyecto de ML/Data**](link-al-repo) - Breve descripción del modelo o algoritmo de recomendación implementado.
-
----
-
+- [**Sistemas de Recomendación & Machine Learning**](https://github.com/Esteban023) 
+  Estudio e implementación algorítmica enfocada en motores de recomendación. El proyecto abarca el procesamiento de matrices de calificación y manipulación de vectores utilizando principios avanzados de **álgebra lineal**. Este trabajo sienta bases prácticas orientadas a la investigación en teoría espectral y diseño de algoritmos de aproximación.
 ### 📊 Actividad en GitHub
 
 <p align="center">
